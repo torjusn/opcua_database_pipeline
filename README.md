@@ -31,3 +31,4 @@ docker compose up -d
 - [ ] Write main README description of all subprocesses + Docker/Docker compose
 - [ ] Separate subprocesses to subrepos w/ individual READMEs
 - [ ] Draw flowchart in drawio
+- [ ] Add CI/CD Runner
